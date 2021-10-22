@@ -1,5 +1,12 @@
 ## Installing
 
+1. Get xv6-riscv source code:
+
+```bash
+git submodule init
+git submodule update
+```
+
 1. Build the docker container:
 
 ```bash
